@@ -28,8 +28,6 @@
         "doctrine/orm": "^2.5",
         "doctrine/data-fixtures": "^1.0.0"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "suggest": {
         "doctrine/phpcr-odm": "To enable support for the PHPCR ODM documents (^1.4)",
         "doctrine/phpcr-bundle": "To enable support for the PHPCR ODM documents",
